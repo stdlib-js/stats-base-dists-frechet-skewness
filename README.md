@@ -69,7 +69,7 @@ where `Γ` is the [gamma function][gamma-function].
 ## Usage
 
 ```javascript
-import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-frechet-skewness@esm/index.mjs';
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-frechet-skewness@v0.2.1-esm/index.mjs';
 ```
 
 #### skewness( alpha, s, m )
@@ -155,7 +155,7 @@ y = skewness( 1.0, -1.0, 2.0 );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-eps@esm/index.mjs';
-import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-frechet-skewness@esm/index.mjs';
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-frechet-skewness@v0.2.1-esm/index.mjs';
 
 var alpha;
 var m;
