@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-12)
+## Unreleased (2025-01-20)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`bd984ea`](https://github.com/stdlib-js/stdlib/commit/bd984eabd47aaa22688e282da0b6f4ed9429869f) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`27bcbf6`](https://github.com/stdlib-js/stdlib/commit/27bcbf6b931385008c1210cddb77be5c86b6d94c) - **chore:** directly draw from desired distribution and tweak ranges _(by Philipp Burckhardt)_
 -   [`3b44fd4`](https://github.com/stdlib-js/stdlib/commit/3b44fd415b1115445a74ff9a13111823b99a85a0) - **feat:** add C implementation for `stats/base/dists/frechet/skewness` [(#4573)](https://github.com/stdlib-js/stdlib/pull/4573) _(by Manvith M, Philipp Burckhardt)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
