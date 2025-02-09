@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-08)
+## Unreleased (2025-02-09)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`e61b1de`](https://github.com/stdlib-js/stdlib/commit/e61b1dee3334bacf30d213de5b5f1c7868c0753b) - **docs:** clean-up of C docstrings _(by Philipp Burckhardt)_
 -   [`fa15161`](https://github.com/stdlib-js/stdlib/commit/fa15161761664bbdd2123292d3f1d7cf2d0f0a6d) - **bench:** refactor random number generation in `stats/base/dists/frechet` [(#4922)](https://github.com/stdlib-js/stdlib/pull/4922) _(by Karan Anand, stdlib-bot)_
 -   [`bd984ea`](https://github.com/stdlib-js/stdlib/commit/bd984eabd47aaa22688e282da0b6f4ed9429869f) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`27bcbf6`](https://github.com/stdlib-js/stdlib/commit/27bcbf6b931385008c1210cddb77be5c86b6d94c) - **chore:** directly draw from desired distribution and tweak ranges _(by Philipp Burckhardt)_
